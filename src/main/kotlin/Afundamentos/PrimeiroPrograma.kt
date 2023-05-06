@@ -33,12 +33,17 @@ fun main() {
     println(tempoEmSegundos)
 
 
+    //------------
+    var a: Int
+    var b = 2
+    a = 10
+    print("a + b = ")
+    println(a + b )
+    //------------
 
-
-
-
-
-
+    // To declare a variable in Kotlin, either var or val keyword is used.
+    //    val (Immutable reference)
+    //    var (Mutable reference)
 
 
 
